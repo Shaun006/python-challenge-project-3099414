@@ -88,6 +88,6 @@ scribe.left()
 scribe.left()
 scribe.up()
 scribe.up()
-scribe.up()
+
 
 
